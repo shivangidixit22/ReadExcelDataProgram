@@ -1,0 +1,1 @@
+java -cp bin;jars/*;TestData.xlsx; org.testng.TestNG testng.xml
